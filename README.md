@@ -2,6 +2,9 @@
 ## Dashboard Financeiro
 (https://app.powerbi.com/view?r=eyJrIjoiMDA3ZDU5MzUtMjczNi00MTc2LWI2M2YtYjQxN2Q5ZDVkY2YxIiwidCI6IjNlZjJkMWZjLWQyMjAtNDM2NC05NDhkLTNjOTFiZWRhYzRhYiJ9)
 
+## Dashboard Financeiro - Fuxo de Caixa e Simulador Financeiro
+(https://app.powerbi.com/view?r=eyJrIjoiZjA2ZWJkMGItNTBiNi00NzcwLThhZDAtMGZhNTM4NmVmMGRjIiwidCI6IjNlZjJkMWZjLWQyMjAtNDM2NC05NDhkLTNjOTFiZWRhYzRhYiJ9&pageName=ReportSection09270cad1563bd81b8ee)
+
 ## Dashboard de Demonstração de Vendas
 (https://app.powerbi.com/view?r=eyJrIjoiYjFiYWViNGItYmYzMC00ZWZiLTlkNzUtMGY5ZmI4MmU2NWRkIiwidCI6IjNlZjJkMWZjLWQyMjAtNDM2NC05NDhkLTNjOTFiZWRhYzRhYiJ9)
 
