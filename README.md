@@ -20,4 +20,5 @@
 ## Dashboard de Faturamento de Transportes
 (https://app.powerbi.com/view?r=eyJrIjoiMjFlN2QxMmItNjg0Yi00OWQyLWExMjEtNjdiNDM0M2MxNjMwIiwidCI6IjNlZjJkMWZjLWQyMjAtNDM2NC05NDhkLTNjOTFiZWRhYzRhYiJ9)
 
-## KPI Financeiro (https://app.powerbi.com/view?r=eyJrIjoiNzY5ZDQ5NmEtM2M1Yy00Y2YyLTk1OWEtMWZmNjU2ZDEyMzU5IiwidCI6IjNlZjJkMWZjLWQyMjAtNDM2NC05NDhkLTNjOTFiZWRhYzRhYiJ9)
+## KPI Financeiro
+(https://app.powerbi.com/view?r=eyJrIjoiNzY5ZDQ5NmEtM2M1Yy00Y2YyLTk1OWEtMWZmNjU2ZDEyMzU5IiwidCI6IjNlZjJkMWZjLWQyMjAtNDM2NC05NDhkLTNjOTFiZWRhYzRhYiJ9)
