@@ -22,3 +22,6 @@
 
 ## KPI Financeiro
 (https://app.powerbi.com/view?r=eyJrIjoiNzY5ZDQ5NmEtM2M1Yy00Y2YyLTk1OWEtMWZmNjU2ZDEyMzU5IiwidCI6IjNlZjJkMWZjLWQyMjAtNDM2NC05NDhkLTNjOTFiZWRhYzRhYiJ9)
+
+##  KPI de Performance de Vendas
+(https://app.powerbi.com/view?r=eyJrIjoiYTk0NzFjYWMtMzkyMy00ZWM0LWFiNDktZGRlMjhkMWQ4NmUyIiwidCI6IjNlZjJkMWZjLWQyMjAtNDM2NC05NDhkLTNjOTFiZWRhYzRhYiJ9)
