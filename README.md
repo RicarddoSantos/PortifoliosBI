@@ -17,11 +17,11 @@
 ##Dashboard de Indicadores de Vendas
 (https://app.powerbi.com/view?r=eyJrIjoiMzU1ZWIwM2UtM2Y3MS00ZWQxLThiZjMtMjBiMjViYWY0YjdhIiwidCI6IjNlZjJkMWZjLWQyMjAtNDM2NC05NDhkLTNjOTFiZWRhYzRhYiJ9)
 
-## Dashboard de Faturamento de Transportes
-(https://app.powerbi.com/view?r=eyJrIjoiMjFlN2QxMmItNjg0Yi00OWQyLWExMjEtNjdiNDM0M2MxNjMwIiwidCI6IjNlZjJkMWZjLWQyMjAtNDM2NC05NDhkLTNjOTFiZWRhYzRhYiJ9)
-
 ## KPI Financeiro
 (https://app.powerbi.com/view?r=eyJrIjoiNzY5ZDQ5NmEtM2M1Yy00Y2YyLTk1OWEtMWZmNjU2ZDEyMzU5IiwidCI6IjNlZjJkMWZjLWQyMjAtNDM2NC05NDhkLTNjOTFiZWRhYzRhYiJ9)
 
 ##  KPI de Performance de Vendas
 (https://app.powerbi.com/view?r=eyJrIjoiYTk0NzFjYWMtMzkyMy00ZWM0LWFiNDktZGRlMjhkMWQ4NmUyIiwidCI6IjNlZjJkMWZjLWQyMjAtNDM2NC05NDhkLTNjOTFiZWRhYzRhYiJ9)
+
+## Análise da Balança Comercial
+(https://app.powerbi.com/view?r=eyJrIjoiMmE5YzViOWUtNTE1ZC00YzdjLThmOTgtYTE0ZDZiZjM3YWY4IiwidCI6IjNlZjJkMWZjLWQyMjAtNDM2NC05NDhkLTNjOTFiZWRhYzRhYiJ9)
