@@ -25,3 +25,6 @@
 
 ## Análise da Balança Comercial
 (https://app.powerbi.com/view?r=eyJrIjoiMmE5YzViOWUtNTE1ZC00YzdjLThmOTgtYTE0ZDZiZjM3YWY4IiwidCI6IjNlZjJkMWZjLWQyMjAtNDM2NC05NDhkLTNjOTFiZWRhYzRhYiJ9)
+
+## Análise Balança Comercial - Resumo Exportações
+https://app.powerbi.com/view?r=eyJrIjoiN2I1NDhlNTUtMDc3Ni00MDc5LTk2NTctZGQ2NjhmZDA1YWNjIiwidCI6IjNlZjJkMWZjLWQyMjAtNDM2NC05NDhkLTNjOTFiZWRhYzRhYiJ9
